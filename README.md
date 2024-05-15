@@ -6,6 +6,7 @@
   - Parallel.For
   - Partitioner
 
+- data Types
 - cache
   - MemoryCache
 
